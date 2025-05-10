@@ -34,7 +34,7 @@ A robust test automation framework for web application testing, specifically des
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone "https://github.com/shreif92/depi-graduation-testing"
 ```
 
 2. Install dependencies:
