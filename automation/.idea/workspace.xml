@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba00765e-0267-4e69-ac7a-88efafafffaf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wdcdrniirhLvtpwcT2sfQ8amAV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: Register.executor": "Run",
+    "Cucumber Java.Scenario: User Successfully Registers.executor": "Run",
+    "Cucumber Java.Scenario: Validate That User can Login with valid credentials.executor": "Run",
+    "Cucumber Java.Scenario: Validate that user can register with valid credentials.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AddToCartTest.executor": "Run",
+    "TestNG.AddToCartTest.guestUserCanAddToCart.executor": "Run",
+    "TestNG.AddToCartTest.userCanAddMacBookToCart.executor": "Run",
+    "TestNG.AddToCartTest.userCanAddSameProductTwice.executor": "Run",
+    "TestNG.AddToCartTest.userCannotAddNegativeQuantity.executor": "Run",
+    "TestNG.AddToCartTest.userCannotAddVeryHighQuantity.executor": "Run",
+    "TestNG.ChangePasswordTest.executor": "Run",
+    "TestNG.ChangePasswordTest.userCanChangePasswordSuccessfully.executor": "Run",
+    "TestNG.ChangePasswordTest.userCannotChangePasswordToTheSamePassword.executor": "Run",
+    "TestNG.D:/GraduationProject/QaFox2/QaFox/Runner.xml.executor": "Run",
+    "TestNG.LoginTest.userCanLoginSuccessfully.executor": "Run",
+    "TestNG.LoginTest.userCannotLoginWithInvalidEmail.executor": "Run",
+    "TestNG.LoginTest.userCannotLoginWithInvalidPassword.executor": "Run",
+    "TestNG.RegisterTest.executor": "Run",
+    "TestNG.RegisterTest.userCanRegisterSuccessfully.executor": "Run",
+    "TestNG.RegisterTest.userCannotRegisterWhenDidNotAgreeToPrivacyPolicy.executor": "Run",
+    "TestNG.RegisterTest.userCannotRegisterWhenFirstNameFieldLeftBlank.executor": "Run",
+    "TestNG.RegisterTest.userCannotRegisterWhenLastNameFieldLeftBlank.executor": "Run",
+    "TestNG.RegisterTest.userCannotRegisterWithAlreadyRegisteredEmail.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/Automation",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AddToCartTest.userCannotAddZeroQuantity">
+    <configuration name="AddToCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaFox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddToCartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.userCanAddSameProductTwice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaFox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddToCartTest" />
+      <option name="METHOD_NAME" value="userCanAddSameProductTwice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.userCannotAddNegativeQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaFox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddToCartTest" />
+      <option name="METHOD_NAME" value="userCannotAddNegativeQuantity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.userCannotAddVeryHighQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaFox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddToCartTest" />
+      <option name="METHOD_NAME" value="userCannotAddVeryHighQuantity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToCartTest.userCannotAddZeroQuantity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaFox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.AddToCartTest" />
+      <option name="METHOD_NAME" value="userCannotAddZeroQuantity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddToCartTest.userCannotAddZeroQuantity" />
+        <item itemvalue="TestNG.AddToCartTest.userCannotAddNegativeQuantity" />
+        <item itemvalue="TestNG.AddToCartTest.userCanAddSameProductTwice" />
+        <item itemvalue="TestNG.AddToCartTest" />
+        <item itemvalue="TestNG.AddToCartTest.userCannotAddVeryHighQuantity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba00765e-0267-4e69-ac7a-88efafafffaf" name="Changes" comment="" />
+      <created>1746374984412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746374984412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/LoginTest.java</url>
+          <line>12</line>
+          <properties class="Tests.LoginTest" method="userCanLoginSuccessfully">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
